@@ -88,8 +88,8 @@ You will learn:
 ## 📖 Usage
 
 1. **Clone the repository**:
-   `git clone https://github.com/yourusername/seed-labs-network-security.git
-   cd seed-labs-network-security`
+   `git clone https://github.com/yourusername/seed-labs-network-security.git`
+   `cd seed-labs-network-security`
 
 2. **Set up the lab environment** by following the instructions in [`Lab_Setup.pdf`](./Lab_Setup.pdf).
 

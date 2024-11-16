@@ -1,6 +1,6 @@
 # 🌐 SEED Labs - Network Security
 
-![SEED Labs Banner](./images/banner.png "SEED Labs Banner")
+![SEED Labs Banner](banner.png "SEED Labs Banner")
 
 
 📚 **Welcome to the SEED Labs - Network Security Repository!**  

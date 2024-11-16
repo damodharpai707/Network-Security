@@ -34,16 +34,15 @@ You will learn:
 
 ## 🧪 Lab Descriptions
 
-### 1️⃣ ARP Cache Poisoning Attack
-> **Focus:** Exploiting ARP protocol vulnerabilities to conduct attacks.
+### 1️⃣ Lab Setup Instructions
+> **Focus:** Configuring the environment for SEED Labs.
 
-📌 **Key Topics**:
-- Understanding the ARP protocol and its weaknesses.
-- Conducting ARP cache poisoning attacks.
-- Implementing Man-in-the-Middle (MITM) attacks.
-- Using tools like **Scapy** for packet crafting and **Wireshark** for network analysis.
+📌 **Key Steps**:
+- Setting up **VirtualBox** with the SEED Ubuntu 20.04 VM.
+- Installing and configuring Docker containers for experiments.
+- Preparing a complete lab setup for network security tasks.
 
-📄 Detailed steps and explanations are provided in [`Lab_ARP Cache Poisoning Attack.pdf`](./Lab_ARP%20Cache%20Poisoning%20Attack.pdf).
+📄 Check out [`Lab_Setup.pdf`](./Lab_Setup.pdf) for a detailed guide.
 
 ---
 
@@ -60,15 +59,16 @@ You will learn:
 
 ---
 
-### 3️⃣ Lab Setup Instructions
-> **Focus:** Configuring the environment for SEED Labs.
+### 3️⃣ ARP Cache Poisoning Attack
+> **Focus:** Exploiting ARP protocol vulnerabilities to conduct attacks.
 
-📌 **Key Steps**:
-- Setting up **VirtualBox** with the SEED Ubuntu 20.04 VM.
-- Installing and configuring Docker containers for experiments.
-- Preparing a complete lab setup for network security tasks.
+📌 **Key Topics**:
+- Understanding the ARP protocol and its weaknesses.
+- Conducting ARP cache poisoning attacks.
+- Implementing Man-in-the-Middle (MITM) attacks.
+- Using tools like **Scapy** for packet crafting and **Wireshark** for network analysis.
 
-📄 Check out [`Lab_Setup.pdf`](./Lab_Setup.pdf) for a detailed guide.
+📄 Detailed steps and explanations are provided in [`Lab_ARP Cache Poisoning Attack.pdf`](./Lab_ARP%20Cache%20Poisoning%20Attack.pdf).
 
 ---
 

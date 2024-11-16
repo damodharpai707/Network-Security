@@ -1,6 +1,6 @@
 # 🌐 SEED Labs - Network Security
 
-![SEED Labs Banner]() 
+![SEED Labs Banner](Seed Labs Banner.png) 
 
 📚 **Welcome to the SEED Labs - Network Security Repository!**  
 This repository contains lab exercises designed to provide hands-on experience in network security concepts, using the SEED Labs framework. You will explore ARP attacks, firewalls, and advanced network configurations in a virtual lab environment.
